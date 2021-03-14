@@ -1,5 +1,5 @@
 # Password_locker
- A terminal based aplication for managing user accounts, storing and creating passwords for various accounts.
+ A terminal based aplication for managing user accounts, storing and creating passwords for various accounts
  
  ## By Diella Micha Mutoni
 
