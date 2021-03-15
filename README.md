@@ -24,4 +24,4 @@
 
 ## License
 
-This project is license by MIT for more information visit LICENSE.md
+This project is license by MIT for more information visit LICENSE.md.
